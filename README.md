@@ -4,4 +4,4 @@
 ## ToDo..
 
 - LLM inference on TPU: https://github.com/google/JetStream
-- Achieve Llama2 performance with $: https://github.com/myshell-ai/JetMoE
+- Achieve Llama2 performance with substantially low cost: https://github.com/myshell-ai/JetMoE
